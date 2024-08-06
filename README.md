@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="pl">
 <head>
     <meta charset="UTF-8">
@@ -6,7 +5,6 @@
     <title>Poczta</title>
 </head>
 <body>
-    <h1>Poczta</h1>
     <p><a href="mailto:kacper.wp1@wp.pl">Wyślij email do ucznia</a></p>
     <img src="poczta.jpg" alt="Grafika związana z pocztą" width="300">
     <p><a href="https://kejpy.github.io/index.html/">Powrót do strony głównej</a></p>
