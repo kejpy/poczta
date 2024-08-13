@@ -6,6 +6,6 @@
 <body>
 <p><a href="mailto:kacper.wp1@wp.pl">Wyślij email do ucznia</a></p>
 <img src="/poczta.jpg" alt="poczta1.png" width="300">
-<p><a href="https://kejpy.github.io/index.html/">Powrót do strony głównej</a></p>
+<p><a href="http://www.indexhtml.pl">Powrót do strony głównej</a></p>
 </body>
 </html>
